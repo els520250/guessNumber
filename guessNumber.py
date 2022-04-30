@@ -12,5 +12,3 @@ while True:
 		print('比', guess, '還要小')
 	elif guess < number:
 		print('比', guess, '還要大')
-	else:
-		print('請輸入數字')
